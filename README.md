@@ -14,11 +14,6 @@ This repository contains my documentation from **Day 1 to Day 6** of my hackatho
 ## 📌 About
 This repository serves as a **collection of my learning, progress, and projects** throughout the hackathon. It includes detailed insights into the work done each day, covering key concepts, implementations, and achievements.
 
-## 🚀 How to Use
-1. Clone the repository using:
-   ```sh
-   git clone https://github.com/your-username/My-Documentation-and-Resume.git
-   ```
 2. Open the **PDF files** to review my documentation
 
 Feel free to explore my work and provide feedback! 😊
